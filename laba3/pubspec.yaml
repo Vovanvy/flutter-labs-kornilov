@@ -1,0 +1,36 @@
+name: laba3
+description: 'Лабораторные работы 3–7: поиск городов, BLoC и локализация.'
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^9.1.1
+  flutter_localizations:
+    sdk: flutter
+  http: 1.6.0
+  shared_preferences: ^2.5.6
+
+dev_dependencies:
+  shared_preferences_platform_interface: ^2.4.2
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  generate: true
+  uses-material-design: true
+  assets:
+    - assets/images/
+
+flutter_launcher_icons:
+  android: true
+  image_path: assets/icon/city_pin.png
+  adaptive_icon_background: '#142538'
+  adaptive_icon_foreground: assets/icon/city_pin_foreground.png
+  min_sdk_android: 21

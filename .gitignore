@@ -1,0 +1,15 @@
+.idea/
+.vscode/
+*.iml
+Thumbs.db
+.DS_Store
+
+# Local build caches and machine-specific settings
+.gradle/
+.kotlin/
+local.properties
+.env
+.env.*
+*.jks
+*.keystore
+key.properties

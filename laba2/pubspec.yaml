@@ -1,0 +1,10 @@
+name: laba2
+description: 'Лабораторная работа 2: учёт расходов на Dart.'
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.13.3
+
+dev_dependencies:
+  lints: ^6.0.0

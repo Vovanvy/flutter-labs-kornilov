@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <title>City Search app icon</title>
+  <rect width="1024" height="1024" fill="#142538"/>
+  <path fill="#f6aa42" fill-rule="evenodd" d="M512 96c-197 0-356 159-356 356 0 235 296 454 342 519 7 10 21 10 28 0 46-65 342-284 342-519 0-197-159-356-356-356zm0 182a174 174 0 1 1 0 348 174 174 0 0 1 0-348z"/>
+  <path fill="#fff3df" d="M407 511h57v91h-57zm76-53h57v144h-57zm76 29h57v115h-57z"/>
+</svg>
